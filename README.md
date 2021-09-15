@@ -19,7 +19,9 @@ Es una biblioteca de JS que permite crear interfaces de usuario de formar sencil
 La Arquitectura del Sistema Web se muestra en la siguiente imagen. 
 
 ![arquitectura_SportField](https://user-images.githubusercontent.com/74806895/133349146-c6564944-6e57-4fcd-acdd-a5ffd01010cb.png)
+
 Los datos almacenados en Firebase muestran la siguiente estructura
+
 ![arquitectura_BDD_SF](https://user-images.githubusercontent.com/74806895/133349551-6db37212-594d-4c4e-ac37-d7594c0380a2.png)
 
 ###3. Funcionalidades principales
