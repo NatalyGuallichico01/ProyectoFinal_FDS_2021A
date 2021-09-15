@@ -3,8 +3,9 @@ El siguiente proyecto muestra el desarrollo de un Sistema Web, que permite a los
 Video demostrativo: [Link](https://youtu.be/XHwnhfMY__c "Link")
 
 **Realizado por:**
--Luis Catota
--Nataly Guallichico
+
+Luis Catota
+Nataly Guallichico
 
 
 ###  1. Herramientas de Desarrollo
