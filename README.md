@@ -24,7 +24,7 @@ Los datos almacenados en Firebase muestran la siguiente estructura
 
 ![arquitectura_BDD_SF](https://user-images.githubusercontent.com/74806895/133349551-6db37212-594d-4c4e-ac37-d7594c0380a2.png)
 
-###3. Funcionalidades principales
+### 3. Funcionalidades principales
 
 Dentro del desarrollo del Sistema Web se pudo considerar varios requerimientos y funcionalidades para el Sistema Wed, algunas de las más relevancia son las siguientes:
 
